@@ -1,7 +1,7 @@
-# Anki
-Repo for programming questions for my Anki card revision system
+# Anki deck's and coding exercises I have created
+Anki is an awesome program for studying flashcards using spaced repetition, a study method proven highly effective.
 
-Pl visit [AnkiWeb](https://ankiweb.net/) to know more about how Anki flashcard revision works. 
+Pl visit [AnkiWeb](https://apps.ankiweb.net/) to know more about how Anki flashcard revision works. 
 
 <br>
 
