@@ -5,5 +5,3 @@ Pl visit [AnkiWeb](https://apps.ankiweb.net/) to know more about how Anki flashc
 
 <br>
 
-**References:** Part of the code based on [shared Anki Python deck](https://ankiweb.net/shared/info/1060094053)
-
