@@ -4,7 +4,8 @@ Anki is an awesome program for studying flashcards using [spaced repetition](htt
 Please visit [AnkiWeb](https://apps.ankiweb.net/) to know more about how Anki flashcard revision works. 
 
 <br>
-**Note:** Some of the programming exercises are based on [shared Anki Python deck](https://ankiweb.net/shared/info/1060094053)  
+
+*Note:* Some of the programming exercises are based on [shared Anki Python deck](https://ankiweb.net/shared/info/1060094053)  
 
 
 
